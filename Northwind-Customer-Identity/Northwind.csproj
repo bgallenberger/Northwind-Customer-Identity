@@ -23,8 +23,4 @@
     <Folder Include="Views\Customer\" />
     <Folder Include="Views\Account\" />
   </ItemGroup>
-
-  <ItemGroup>
-    <None Include="appsettings.json" />
-  </ItemGroup>
 </Project>
